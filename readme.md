@@ -10,4 +10,4 @@ FOLDER WISE STRUCTURE WITH DAILY LEETCODE PROBLEMS
 ## Folder-2 
 
 
-# Dry run solution logic to understand better when revising.
+### Dry run solution logic to understand better when revising.
