@@ -5,7 +5,6 @@
 13. Find the largest of two numbers. (done)
 14. Find the largest of three numbers. (done)
 15. Check if a year is a leap year. (done)
-
 16. Check if a character is a vowel or consonant.
 17. Check if a character is uppercase, lowercase, digit, or special character. 
 18. Find the grade of a student given marks (A/B/C/D/F).
