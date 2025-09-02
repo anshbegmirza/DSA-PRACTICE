@@ -10,3 +10,8 @@
 48. Print Floyd’s triangle.
 49. Print Pascal’s triangle.
 50. Print a checkerboard pattern of stars and spaces.
+
+
+video link 
+<!-- https://youtu.be/rga_q2N7vU8?si=TiaRQMaKE-iLtRmb -->
+practice on online-compiler
