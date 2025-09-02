@@ -77,7 +77,50 @@ int main()
 //     cout << endl;
 //   }  
   
+/* 
+    A B C D 
+    E F G H 
+    I J K L 
+    M N O P 
+  */
+  
+//   int n = 4;
+//   char val='A';
+//   for (int i=1; i <= n; i++){
+    
+//     for(int j=1; j<= n; j++){
+//       cout << val << " ";
+    
+//       val++;
+//     }
+    
+//     cout << endl;
+//   }  
+  
 
+/* Triangle pattern  
+  
+  * 
+  * * 
+  * * * 
+  * * * * 
+  * * * * * 
+  
+  */
+  
+//   int n=5;
+  
+//   for(int i=0; i<=5; i++){
+    
+//     for(int j=0; j<i; j++){
+      
+//       cout << "* " ;
+//     }
+    
+//     cout << endl;
+//   }
+  
+//   return 0;
 
 return 0;
 }
