@@ -1,5 +1,7 @@
 # write cpp solution for the below definitons.
 
+// please refer patterns cpp file for all the solutions.
+
 41. Print a square pattern of stars.
 42. Print a right triangle of stars.
 43. Print an inverted right triangle of stars.
