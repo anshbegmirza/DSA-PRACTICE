@@ -15,23 +15,19 @@ int compareVersion(string v1, string v2) {
         int revN1 = 0;
         int revN2 = 0;
         
-        // Process version 1
         while (p1 < m && v1[p1] != '.') {
             revN1 = revN1 * 10 + (v1[p1] - '0');
             p1++;
         }
         
-        // Process version 2
         while (p2 < n && v2[p2] != '.') {
             revN2 = revN2 * 10 + (v2[p2] - '0');
             p2++;
         }
         
-        // Compare extracted numbers
         if (revN1 > revN2) return 1;
         if (revN1 < revN2) return -1;
         
-        // Skip the dots if there are any
         if (p1 < m) p1++;
         if (p2 < n) p2++;
     }
