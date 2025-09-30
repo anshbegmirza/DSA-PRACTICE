@@ -39,3 +39,7 @@ int main()
     int res = percentageLetter(s,c);
     cout << res << endl;
 }
+
+// ok so when we do a int/int division and it returns us a int, not the rounded up one.
+// so we have to round that thing up and return it
+// that's y we use a double or float for that to ease things up.
